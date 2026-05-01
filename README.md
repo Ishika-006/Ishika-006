@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ishika Sharma
 
-🚀 *Full Stack Developer | Java • Spring Boot • Angular | Problem Solver*
+🚀 Full Stack Developer focused on backend systems & real-world solutions  
 
 💡 *From backend systems → scalable applications → real-world impact*
 
