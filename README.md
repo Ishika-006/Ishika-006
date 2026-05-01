@@ -12,71 +12,40 @@
 * 💻 Strong in **Java, Spring Boot, Angular, MySQL**
 * 🛠️ Passionate about solving real-world problems through tech
 * 📈 Focused on writing clean, maintainable, production-level code
-
----
-
-## 🚀 Projects
-
-### ✈️ Rahi Travel Platform
-
-* Built full-stack travel platform (planning, booking, tracking)
-* Developed **15+ reusable UI components & 3 service modules**
-* Implemented **JWT authentication for 10+ APIs**
-* Integrated **AWS deployment + email notification system**
-
----
-
-### 🍱 Food Waste Management System
-
-* Created platform for NGOs & donors for food distribution
-* Built **AI model (70% accuracy)** for food freshness detection
-* Added analytics dashboard for tracking donations & impact
-
----
-
-### 💱 Currency Converter
-
-* Real-time exchange system with **50+ currencies**
-* Reduced API response time by **20%**
-* Fully responsive UI
-
----
-
-## 💼 Experience
-
-* 💻 Full Stack Development Intern
-
-  * Migrated monolithic system → microservices
-  * Built secure REST APIs using Spring Boot
-  * Improved scalability & maintainability
-
+* 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Languages  
+![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B)
+![Java](https://img.shields.io/badge/Java-orange?logo=java)
+![Python](https://img.shields.io/badge/Python-yellow?logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
 
-`C++` `Java` `Python` `JavaScript`
+### ⚙️ Backend  
+![Spring Boot](https://img.shields.io/badge/SpringBoot-green?logo=springboot)
+![REST API](https://img.shields.io/badge/REST-API-blue)
 
-### ⚙️ Backend
+### 🎨 Frontend  
+![Angular](https://img.shields.io/badge/Angular-red?logo=angular)
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap)
 
-`Spring Boot` `REST APIs`
+### 🗄️ Database  
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
 
-### 🎨 Frontend
+### ☁️ Cloud & DevOps  
+![AWS](https://img.shields.io/badge/AWS-black?logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-orange?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+![Linux](https://img.shields.io/badge/Linux-yellow?logo=linux)
 
-`Angular` `HTML` `CSS` `Bootstrap`
-
-### 🗄️ Database
-
-`MySQL`
-
-### ☁️ Cloud & DevOps
-
-`AWS` `Git` `GitHub` `Linux`
-
-### 🧰 Tools
-
-`Postman` `IBM Data Studio` `RAD`
+### 🧰 Tools  
+![Postman](https://img.shields.io/badge/Postman-orange?logo=postman)
+![IBM](https://img.shields.io/badge/IBM-DataStudio-blue?logo=ibm)
+![RAD](https://img.shields.io/badge/RAD-grey)
 
 ---
 
@@ -91,9 +60,9 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Ishika-006\&show_icons=true\&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=Ishika-006\&theme=tokyonight)
 
 ---
 
