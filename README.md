@@ -49,15 +49,6 @@
 
 ---
 
-## 🏆 Achievements
-
-* 🥇 Programming in Java — Elite + Gold (IIT Kharagpur)
-* 🥈 Database Management System — Elite + Silver
-* ☁️ AWS Academy Cloud Foundations Certified
-* 📅 365 Days Problem Solving (LeetCode)
-
----
-
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Ishika-006\&show_icons=true\&theme=tokyonight)
